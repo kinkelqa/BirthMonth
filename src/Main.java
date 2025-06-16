@@ -7,6 +7,8 @@ public class Main
 
         Scanner input = new Scanner(System.in);
 
+        System.out.print("Enter your birth month (1-12): ");
+
         int birthMonth;
 
         birthMonth = 24;
